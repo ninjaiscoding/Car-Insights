@@ -19,9 +19,9 @@ The dashboard helps answer the following questions:
 3. How much did each manufacturer sell in each year?  
 4. How do sales trends vary across different years, fuel types, and manufacturers?
 
-#DASHBOARD Page: <a href="https://github.com/ninjaiscoding/Car-Insights/blob/main/Screenshot%202025-09-11%20005546.png">dashboard img</a>
+## DASHBOARD Page: <a href="https://github.com/ninjaiscoding/Car-Insights/blob/main/Screenshot%202025-09-11%20005546.png">dashboard img</a>
 
-#Project file: 
+# Project file: 
 -> <a href= "https://github.com/ninjaiscoding/Car-Insights/blob/main/Screenshot%202025-09-11%20005546.png">Car-Insights</a>
 
 ## Process
