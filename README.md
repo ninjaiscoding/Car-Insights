@@ -22,7 +22,7 @@ The dashboard helps answer the following questions:
 ## DASHBOARD Page: <a href="https://github.com/ninjaiscoding/Car-Insights/blob/main/Screenshot%202025-09-11%20005546.png">dashboard img</a>
 
 # Project file: 
--> <a href= "https://github.com/ninjaiscoding/Car-Insights/blob/main/Screenshot%202025-09-11%20005546.png">Car-Insights</a>
+-> <a href= "https://github.com/ninjaiscoding/Car-Insights/blob/main/Car-Insights-Project.xlsx">Car-Insights</a>
 
 ## Process
 1. **Data Collection and Cleaning:**  
