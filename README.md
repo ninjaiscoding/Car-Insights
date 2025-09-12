@@ -51,6 +51,6 @@ The dashboard helps answer the following questions:
    - Verified accuracy of totals, sales calculations, and slicer functionality.  
    - Ensured the dashboard provides meaningful insights at a glance.
   
-##DASHBOARD Picture
+## DASHBOARD Picture
 <img width="1681" height="764" alt="Screenshot 2025-09-11 005546" src="https://github.com/user-attachments/assets/2566a0f6-173b-4e1d-8a8d-f61992e363ca" />
 
